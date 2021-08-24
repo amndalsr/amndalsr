@@ -18,4 +18,4 @@ Top languages does not indicate my skill level or something like that, it's a gi
 
 **Rede Social:**
 
-<a href="https://www.instagram.com/amndalsr/"> <img align="left" alt="Amanda | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" /> </a>
+<a href="https://www.instagram.com/amndalsr/"> <img align="left" alt="Amanda | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" /> </a> 

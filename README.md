@@ -2,8 +2,8 @@
 
 Olá! Sou Amanda Laís, estudante de ciência da computação no Brasil. 	 
 -  🔭  Atualmente aprendendo HTML/CSS 
--  ⚡  Connect with me: [LinkedIn](https://www.linkedin.com/in/amanda-laís-757ba9209/) 
--  💬  Ask me about anything [here](https://github.com/amndalsr/amndalsr/issues) 
+-  ⚡  Conecte-se a mim: [LinkedIn](https://www.linkedin.com/in/amanda-laís-757ba9209/) 
+-  💬  Questione-me sobre qualquer coisa [here](https://github.com/amndalsr/amndalsr/issues) 
 
 **Algumas linguagens e ferramentas:** 
 

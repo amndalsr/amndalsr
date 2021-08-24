@@ -16,6 +16,6 @@ src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" 
 **NOTE:** 
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 
-**Redes Sociais:**
+**Rede Social:**
 
 <a href="https://www.instagram.com/amndalsr/"> <img align="left" alt="Amanda | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" /> </a>

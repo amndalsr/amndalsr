@@ -1,6 +1,6 @@
 ### Olá, sou Amanda!   <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" /> 
 
-Olá! Sou Amanda Laís, estudante de ciência da computação no Brasil. 	 
+Sou estudante de ciência da computação, PE - Brasil. 	 
 -  🔭  Atualmente aprendendo HTML/CSS 
 -  ⚡  Conecte-se a mim: [LinkedIn](https://www.linkedin.com/in/amanda-laís-757ba9209/) 
 -  💬  Questione-me sobre qualquer coisa [here](https://github.com/amndalsr/amndalsr/issues) 

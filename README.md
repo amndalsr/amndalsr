@@ -1,4 +1,4 @@
-### Hi there, I'm Amanda!   <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" /> 
+### Olá, sou Amanda!   <img width="40px" src="https://media.giphy.com/media/6qFTJz4fDRkdy/giphy.gif" /> 
 
 Olá! Sou Amanda Laís, estudante de ciência da computação no Brasil. 	 
 -  🔭  Atualmente aprendendo HTML/CSS 

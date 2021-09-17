@@ -2,7 +2,7 @@
 
 **Sobre mim**
 
-Tenho 20 anos, sou estudante de ciência da computação em Pernambuco, Brasil.
+Tenho 20 anos, sou estudante de ciência da computação na Universidade Catoólica de Pernambuco, Brasil.
 
 Completamente apaixonada pelo mundo do desing de interfaces.
 

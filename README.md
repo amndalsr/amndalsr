@@ -4,7 +4,7 @@
 
 Tenho 20 anos, sou estudante de ciência da computação em Pernambuco, Brasil.
 
-Evoluindo cada dias mais como desenvolvedora web, e completamente apaixonada pelo mundo do desing de interfaces.
+Completamente apaixonada pelo mundo do desing de interfaces.
 
 -  ⚡  Conecte-se a mim: [LinkedIn](https://www.linkedin.com/in/amanda-laís-757ba9209/) 
 -  💬  Questione-me sobre qualquer coisa: [Aqui](https://github.com/amndalsr/amndalsr/issues) 

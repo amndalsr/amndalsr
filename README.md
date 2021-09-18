@@ -12,7 +12,7 @@ Completamente apaixonada pelo mundo do desing de interfaces.
 **Principais linguagens e ferramentas:** 
 
 <code><img title="JS" height="20" 
-src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JavaScript" ></code> <code><img title="VueJs" height="20" 
+src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JavaScript" ></code> <code><img title="AngularJS" height="20" 
 title="AngularJS & Angular 2+" height="20" 
 src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS & Angular 2+"></code> <code><img title="Java" height="20" 
 src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" ></code> <code><img title="React" height="20"

@@ -4,8 +4,6 @@
 
 Tenho 20 anos, sou estudante de ciência da computação na Universidade Católica de Pernambuco, Brasil.
 
-Completamente apaixonada pelo mundo do desing de interfaces.
-
 ⚡  Conecte-se a mim: [LinkedIn](https://www.linkedin.com/in/amanda-laís-757ba9209/) 
 
 **Principais:** 

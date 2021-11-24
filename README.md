@@ -1,11 +1,5 @@
 ### Amanda Laís
 
-**Sobre mim**
-
-Tenho 20 anos, sou estudante de ciência da computação na Universidade Católica de Pernambuco, Brasil.
-
-⚡  Conecte-se a mim: [LinkedIn](https://www.linkedin.com/in/amanda-laís-757ba9209/) 
-
 **Principais:** 
 
 <code><img title="Java" height="20" 

@@ -1,4 +1,4 @@
-## Oiii, sou Amanda, bem
+## Oiii, sou Amanda!
 
 ##
 <div align="center">

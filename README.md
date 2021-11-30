@@ -4,6 +4,14 @@ Sou bacharelanda em Ciência da Computação, e estou inciando no desenvolviment
 
 Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo, para o desenvolvimento de novos sistemas para uma melhor experiência do usuário.
 
+
+<div align="center">
+  <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  
+  <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  
+  <img height="23em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</div>
   
   ##
 

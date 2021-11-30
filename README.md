@@ -2,7 +2,7 @@
 
 Sou bacharelanda em Ciência da Computação, e estou inciando no desenvolvimento web. 
 
-Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo, para o desenvolvimento de novos sistemas para uma melhor experiência do usuário.
+Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo, para o desenvolvimento de novos sistemas.
 
 
 <div align="center">
@@ -18,7 +18,6 @@ Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
  
  <div align="center">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

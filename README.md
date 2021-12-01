@@ -5,7 +5,7 @@ Sou bacharelanda em Ciência da Computação, e estou inciando no desenvolviment
 Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo, para o desenvolvimento de novos sistemas.
 
 
-<div align="center">
+<div>
  <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  <a href="https://instagram.com/amnda.lsr"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>

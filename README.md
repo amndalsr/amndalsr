@@ -2,7 +2,7 @@
 
 Sou bacharelanda em Ciência da Computação, e estou iniciando no desenvolvimento web. 
 
-Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo, para o desenvolvimento de novos sistemas.
+Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo para o desenvolvimento de novos sistemas.
 
 
 <div>

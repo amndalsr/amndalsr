@@ -1,9 +1,13 @@
 ## Oiii, sou Amanda!
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 Sou bacharelanda em Ciência da Computação, e estou iniciando no desenvolvimento web. 
 
 Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo para o desenvolvimento de novos sistemas.
 
+
+## **Social Networks**
 
 <div>
  <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
@@ -11,7 +15,7 @@ Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que
  <a href="https://github.com/amndalsr"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
   
-  ##
+  ## **GitHub Estatísticas**
 
 <div align="center">
   <a href="https://github.com/amndalsr">
@@ -19,10 +23,10 @@ Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- ##
+ ## **Linguagens e Ferramentas**
  
  
-<div align="center">
+<div align="start">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou bacharelanda em Ciência da Computação, e estou iniciando no desenvolvimento web. 
+Sou bacharelanda em Ciência da Computação, e estagiária como Desenvolvedora web e mobile. 
 
 Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo para o desenvolvimento de novos sistemas.
 

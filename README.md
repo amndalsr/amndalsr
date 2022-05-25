@@ -15,15 +15,7 @@ Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que
  <a href="https://github.com/amndalsr"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://instagram.com/amnda.lsr"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-  
-  ## **GitHub Estatísticas**
 
-<div align="start">
-  <a href="https://github.com/amndalsr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amndalsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
  ## **Linguagens e Ferramentas**
  
  
@@ -41,6 +33,15 @@ Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que
   <img align="center" alt="Amanda-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="Amanda-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
  </div>
+  
+  ## **GitHub Estatísticas**
+
+<div align="start">
+  <a href="https://github.com/amndalsr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amndalsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 
   
   ![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)

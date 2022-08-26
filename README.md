@@ -3,7 +3,7 @@
 ## Oiii, sou Amanda!
 
 
-Sou bacharelanda em Ciência da Computação, e estagiária como Desenvolvedora web e mobile. 
+Sou bacharelanda em Ciência da Computação, e trabalho como Desenvolvedora web e mobile. 
 
 Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo.
 

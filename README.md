@@ -1,47 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+## Hii, I'm Amanda!
 
-## Oiii, sou Amanda!
-
-
-Sou bacharelanda em Ciência da Computação e trabalho como Desenvolvedora web e mobile. 
-
-Meu foco é aprender novas tecnologias e aprimorar ainda mais as habilidades que possuo.
-
-
-## **Social Networks**
-
-<div>
- <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
- <a href="https://github.com/amndalsr"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://instagram.com/amnda.lsr"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+### A little more about me...
+<div align="center">
+  <img align="center" alt="Amanda-selfprofile" height="400"  src="https://user-images.githubusercontent.com/72527935/187031504-626974fc-6ad4-4da9-a441-cfb116ebba65.png">
 </div>
 
- ## **Linguagens e Ferramentas**
- 
- 
-<div align="start">
-  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amanda-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Amanda-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Amanda-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Amanda-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Amanda-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="Amanda-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Amanda-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Amanda-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img align="center" alt="Amanda-go" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
- </div>
-  
-  ## **GitHub Estatísticas**
+###
 
-<div align="start">
+<div align="center">
   <a href="https://github.com/amndalsr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amndalsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+## **Social Networks**
+
+<div>
+ <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031893-1b150a7d-32e5-4536-98d8-5da7fee15ad1.png" ></a>
+ <a href="https://github.com/amndalsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031871-8b6ee618-730e-48e5-9e98-fef2e2f8f4c1.png"></a>
+ <a href="https://instagram.com/amnda.lsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031878-b5ac7097-2077-44f4-badf-6ab6564ddb95.png"></a>
+ <a href="https://twitter.com/amndallsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031892-12f80728-0b4a-4abd-9fd8-0ed789708c3a.png"></a>
+</div>
   
   ![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)

@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## **Social Networks**
+## **Social Networks 💭**
 
 <div>
  <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031893-1b150a7d-32e5-4536-98d8-5da7fee15ad1.png" ></a>

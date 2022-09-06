@@ -13,12 +13,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+### 🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=amndalsr&theme=radical&no-frame=true&no-bg=false&margin-w=4">
 </div>
 
-## **Social Networks 💭**
+---
+
+### **Social Networks 💭**
 
 <div>
  <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031893-1b150a7d-32e5-4536-98d8-5da7fee15ad1.png" ></a>
@@ -26,5 +30,8 @@
  <a href="https://instagram.com/amnda.lsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031878-b5ac7097-2077-44f4-badf-6ab6564ddb95.png"></a>
  <a href="https://twitter.com/amndallsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031892-12f80728-0b4a-4abd-9fd8-0ed789708c3a.png"></a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)
   
   ![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)

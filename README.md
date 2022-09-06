@@ -39,7 +39,7 @@
 
 ---
   
-  ![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)
   
   ---
 [![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)

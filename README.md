@@ -13,6 +13,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amndalsr&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+</div>
+
 ## **Social Networks 💭**
 
 <div>

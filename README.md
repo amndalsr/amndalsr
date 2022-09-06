@@ -22,17 +22,6 @@
 
 ---
 
-### **Social Networks 💭**
-
-<div>
- <a href="https://www.linkedin.com/in/amanda-laís-757ba9209"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031893-1b150a7d-32e5-4536-98d8-5da7fee15ad1.png" ></a>
- <a href="https://github.com/amndalsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031871-8b6ee618-730e-48e5-9e98-fef2e2f8f4c1.png"></a>
- <a href="https://instagram.com/amnda.lsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031878-b5ac7097-2077-44f4-badf-6ab6564ddb95.png"></a>
- <a href="https://twitter.com/amndallsr"> <img height="50" src="https://user-images.githubusercontent.com/72527935/187031892-12f80728-0b4a-4abd-9fd8-0ed789708c3a.png"></a>
-</div>
-
----
-
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>

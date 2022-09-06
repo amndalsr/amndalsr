@@ -32,6 +32,14 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</div>
+
+---
   
   ![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)
+  
+  ---
+[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)

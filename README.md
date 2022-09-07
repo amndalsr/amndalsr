@@ -2,7 +2,7 @@
 
 ### A little more about me...
 <div align="center">
-  <img align="center" alt="Amanda-selfprofile" height="300"  src="https://user-images.githubusercontent.com/72527935/187032334-6af8de5c-4091-4876-8e6e-1e31bae3aaba.png">
+  <img align="center" alt="Amanda-selfprofile" width="78%"  src="https://user-images.githubusercontent.com/72527935/187032334-6af8de5c-4091-4876-8e6e-1e31bae3aaba.png">
 </div>
 
 ###

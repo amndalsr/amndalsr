@@ -1,4 +1,4 @@
-## Hii, I'm Amanda! 💮
+## Hii, I'm Amanda! 🌺
 
 ### A little more about me...
 <div align="center">

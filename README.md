@@ -16,6 +16,8 @@
   <a href="https://github.com/amndalsr">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amndalsr&theme=dracula&hide_border=false"/>
 </div>
+    
+[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ---
 
@@ -27,7 +29,3 @@
 ---
   
 ![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)
-  
----
-
-[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=2&color=6)](https://visitcount.itsvg.in)

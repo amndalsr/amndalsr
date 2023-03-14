@@ -26,4 +26,4 @@
   
 ---
 
-[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=amndalsr&icon=2&color=6)](https://visitcount.itsvg.in)

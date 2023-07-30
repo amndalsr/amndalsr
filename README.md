@@ -26,6 +26,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=amndalsr&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
 </div>
   
----
-  
-![Snake animation](https://github.com/amndalsr/amndalsr/blob/output/github-contribution-grid-snake.svg)

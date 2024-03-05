@@ -24,6 +24,6 @@
 ---
 
 ### 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amndalsr&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
+<div align="initial">
+<img src="https://github-trophies.vercel.app/?username=amndalsr&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
 </div>

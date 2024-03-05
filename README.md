@@ -15,10 +15,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amndalsr&theme=dracula&hide_border=true&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amndalsr&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
-  <div align="initial">
-  <a href="https://github.com/amndalsr">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amndalsr&theme=dracula&hide_border=true"/>
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=10)](https://visitcount.itsvg.in)
 

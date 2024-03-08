@@ -21,8 +21,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=10)](https://visitcount.itsvg.in)
 
----
-
 ### 🏆 GitHub Trophies
 <div align="initial">
 <img src="https://github-trophies.vercel.app/?username=amndalsr&theme=dracula&no-frame=true&no-bg=false&margin-w=4">

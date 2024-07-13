@@ -34,19 +34,19 @@
   <tr>
     <td align="center">
       <p>Desafio 1 - Decodificador</p>
-       <a href="https://challenge-one-decodificador-de-texto-peach.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="245" src="https://github.com/user-attachments/assets/25ab2113-2928-4bdf-acce-3c65f1b3835a"></a>
+       <a href="https://challenge-one-decodificador-de-texto-peach.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="250" height="230" src="https://github.com/user-attachments/assets/25ab2113-2928-4bdf-acce-3c65f1b3835a"></a>
     </td>
     <td align="center">
       <p>Desafio 2 - Portfólio</p>
-      <a href="https://amnda-lais-portfolio.vercel.app/#inicio"><img alt="Challenge 1 - Decodificador de textos" width="250" src="https://github.com/user-attachments/assets/f49acc03-6986-46b5-b6cf-8c30fc74f3cf"></a>
+      <a href="https://amnda-lais-portfolio.vercel.app/#inicio"><img alt="Challenge 1 - Decodificador de textos" width="250" height="230" src="https://github.com/user-attachments/assets/f49acc03-6986-46b5-b6cf-8c30fc74f3cf"></a>
     </td>
     <td align="center">
       <p>Desafio 3 - AluraGeek</p>
-      <a href="https://loja-geek-six.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="250" src="https://github.com/user-attachments/assets/c007c57f-33b0-4e48-9839-525c3d97a23e"></a>
+      <a href="https://loja-geek-six.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="250" height="230" src="https://github.com/user-attachments/assets/c007c57f-33b0-4e48-9839-525c3d97a23e"></a>
     </td>
     <td align="center">
       <p>Desafio 3 - AluraFlix</p>
-      <a href="#"><img alt="Challenge 1 - Decodificador de textos" width="250" src="https://github.com/user-attachments/assets/ccc68efc-90b9-421a-8273-2dfebceb9733"></a>
+      <a href="#"><img alt="Challenge 1 - Decodificador de textos" width="250" height="230" src="https://github.com/user-attachments/assets/ccc68efc-90b9-421a-8273-2dfebceb9733"></a>
     </td>
   </tr>
 </table>

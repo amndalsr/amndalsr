@@ -22,7 +22,31 @@
 
 [![](https://visitcount.itsvg.in/api?id=amndalsr&icon=5&color=10)](https://visitcount.itsvg.in)
 
-### 🏆 GitHub Trophies
-<div align="initial">
-<img src="https://github-trophies.vercel.app/?username=amndalsr&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
-</div>
+##
+
+### Programa ONE Oracle Next Education
+<p>Participei do programa ONE da Oracle em parceria com a Alura como aluna da Turma 6 da formação Front-end em React. Aqui estão algumas das minhas conquistas nesse percurso.</p>
+<p>Cada badge representa um desafio concluído do programa, mostrando meu progresso e dedicação em aprender novas habilidades em desenvolvimento Front-end.</p>
+
+<h4>Minhas conquistas (badges) - challenges OracleNextOne T6 2024.1</h4>
+
+<table>
+  <tr>
+    <td align="center">
+      <p>Desafio 1 - Decodificador de textos</p>
+      <img alt="Challenge 1 - Decodificador de textos" width="250" src="https://github.com/user-attachments/assets/25ab2113-2928-4bdf-acce-3c65f1b3835a">
+    </td>
+    <td align="center">
+      <p>Desafio 2 - Portfólio</p>
+      <img alt="Challenge 2 - Portfolio" width="250" src="https://github.com/user-attachments/assets/f49acc03-6986-46b5-b6cf-8c30fc74f3cf">
+    </td>
+    <td align="center">
+      <p>Desafio 3 - AluraGeek</p>
+      <img alt="Challenge 3 - AluraGeek" width="250" src="https://github.com/user-attachments/assets/c007c57f-33b0-4e48-9839-525c3d97a23e">
+    </td>
+    <td align="center">
+      <p>Desafio 3 - AluraFlix</p>
+      <img alt="Challenge 3 - AluraGeek" width="250" src="https://github.com/user-attachments/assets/ccc68efc-90b9-421a-8273-2dfebceb9733">
+    </td>
+  </tr>
+</table>

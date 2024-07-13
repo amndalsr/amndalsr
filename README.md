@@ -34,7 +34,7 @@
   <tr>
     <td align="center">
       <p>Desafio 1 - Decodificador</p>
-       <a href="https://challenge-one-decodificador-de-texto-peach.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="250" src="https://github.com/user-attachments/assets/25ab2113-2928-4bdf-acce-3c65f1b3835a"></a>
+       <a href="https://challenge-one-decodificador-de-texto-peach.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="245" src="https://github.com/user-attachments/assets/25ab2113-2928-4bdf-acce-3c65f1b3835a"></a>
     </td>
     <td align="center">
       <p>Desafio 2 - Portfólio</p>

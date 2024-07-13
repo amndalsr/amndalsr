@@ -24,11 +24,11 @@
 
 ##
 
-### Programa ONE Oracle Next Education
+### Programa ONE - Oracle Next Education
 <p>Participei do programa ONE da Oracle em parceria com a Alura como aluna da Turma 6 da formação Front-end em React. Aqui estão algumas das minhas conquistas nesse percurso.</p>
 <p>Cada badge representa um desafio concluído do programa, mostrando meu progresso e dedicação em aprender novas habilidades em desenvolvimento Front-end.</p>
 
-<h4>Minhas conquistas (badges) - challenges OracleNextOne T6 2024.1</h4>
+<h4>Minhas conquistas (badges) - challenges OracleNextEducation Turma 6 2024.1</h4>
 
 <table>
   <tr>

@@ -45,7 +45,7 @@
       <a href="https://loja-geek-six.vercel.app"><img alt="Challenge 1 - Decodificador de textos" width="255" src="https://github.com/user-attachments/assets/c007c57f-33b0-4e48-9839-525c3d97a23e"></a>
     </td>
     <td align="center">
-      <p>Desafio 3 - AluraFlix</p>
+      <p>Desafio 4 - AluraFlix</p>
       <a href="#"><img alt="Challenge 1 - Decodificador de textos" width="255" src="https://github.com/user-attachments/assets/ccc68efc-90b9-421a-8273-2dfebceb9733"></a>
     </td>
   </tr>

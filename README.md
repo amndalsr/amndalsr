@@ -3,7 +3,7 @@
 ### A little more about me...
 
 - 🎓 Computer Science graduate from the Catholic University of Pernambuco
-- 💻 Junior Developer focused on web development and back-end with Java
+- 💻 Developer focused on web development and back-end with Java
 - 🌱 Currently learning more about architecture, clean code and design patterns
 - 🎨 I love digital illustration, games and creative side projects
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/amanda-laís-757ba9209/">LinkedIn</a>
